@@ -1,0 +1,7 @@
+.card {
+    max-width: 330px !important;
+    margin: 0 !important;
+    .content {
+        text-overflow: ellipsis;
+    }
+}

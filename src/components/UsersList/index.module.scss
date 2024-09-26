@@ -1,0 +1,14 @@
+.users_list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(330px, max-content));
+    grid-gap: 16px;
+    justify-content: center;
+    padding: initial;
+}
+
+.empty {
+    display: flex;
+    justify-content: center;
+    font-size: 28px;
+    font-weight: 800;
+}

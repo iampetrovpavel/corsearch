@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    justify-content: center;
+    // height: 40px;
+    gap: 12px;
+    margin: 20px 0;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.filter {
+    max-width: 600px;
+    display: flex;
+    gap: 20px;
+}
